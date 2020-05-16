@@ -10,7 +10,7 @@ namespace Staemme.Units
   {
     public SpeerFigther()
     {
-      this.Wood = 50; 
+      this.Wood = 50;
       this.Clay = 30;  
       this.Iron = 10;
 
